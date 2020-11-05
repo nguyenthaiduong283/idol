@@ -1,0 +1,6 @@
+C:\Users\kinglaptop\source\repos\Nhom1\MyLib\bin\Debug\MyLib.dll
+C:\Users\kinglaptop\source\repos\Nhom1\MyLib\bin\Debug\MyLib.pdb
+C:\Users\kinglaptop\source\repos\Nhom1\MyLib\obj\Debug\MyLib.csprojAssemblyReference.cache
+C:\Users\kinglaptop\source\repos\Nhom1\MyLib\obj\Debug\MyLib.csproj.CoreCompileInputs.cache
+C:\Users\kinglaptop\source\repos\Nhom1\MyLib\obj\Debug\MyLib.dll
+C:\Users\kinglaptop\source\repos\Nhom1\MyLib\obj\Debug\MyLib.pdb

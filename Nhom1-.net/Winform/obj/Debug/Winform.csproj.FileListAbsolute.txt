@@ -1,0 +1,13 @@
+C:\Users\kinglaptop\source\repos\Nhom1\Winform\bin\Debug\Winform.exe.config
+C:\Users\kinglaptop\source\repos\Nhom1\Winform\bin\Debug\Winform.exe
+C:\Users\kinglaptop\source\repos\Nhom1\Winform\bin\Debug\Winform.pdb
+C:\Users\kinglaptop\source\repos\Nhom1\Winform\obj\Debug\Winform.csprojAssemblyReference.cache
+C:\Users\kinglaptop\source\repos\Nhom1\Winform\obj\Debug\Winform.frmCoBan.resources
+C:\Users\kinglaptop\source\repos\Nhom1\Winform\obj\Debug\Winform.Properties.Resources.resources
+C:\Users\kinglaptop\source\repos\Nhom1\Winform\obj\Debug\Winform.csproj.GenerateResource.cache
+C:\Users\kinglaptop\source\repos\Nhom1\Winform\obj\Debug\Winform.csproj.CoreCompileInputs.cache
+C:\Users\kinglaptop\source\repos\Nhom1\Winform\obj\Debug\Winform.exe
+C:\Users\kinglaptop\source\repos\Nhom1\Winform\obj\Debug\Winform.pdb
+C:\Users\kinglaptop\source\repos\Nhom1\Winform\obj\Debug\Winform.frmCoBan2.resources
+C:\Users\kinglaptop\source\repos\Nhom1\Winform\obj\Debug\Winform.formCoBan3.resources
+C:\Users\kinglaptop\source\repos\Nhom1\Winform\obj\Debug\Winform.frmEndGame.resources
